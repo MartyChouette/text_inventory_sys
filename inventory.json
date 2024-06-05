@@ -1,0 +1,17 @@
+[
+    {
+        "id": 0,
+        "name": "marbles",
+        "quantity": 13
+    },
+    {
+        "id": 1,
+        "name": "tin_pieces",
+        "quantity": 221
+    },
+    {
+        "id": 2,
+        "name": "tennis_shoes",
+        "quantity": 21
+    }
+]
